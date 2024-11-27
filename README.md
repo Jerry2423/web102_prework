@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Jerry2423/web102_prework/blob/main/demo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,11 +34,16 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+1. **DOM Manipulation**:
+   - Efficiently manipulating the DOM to add, update, and remove elements without causing performance issues.
+   - Ensuring that elements are correctly appended to their parent containers
+2. **Debugging**
+   - Identifying and fixing bugs that arise during development, such as incorrect data rendering or event handling issues.
+   - Using console logs and developer mode of web browsers to track down and resolve issues.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Jierui Xu]
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
